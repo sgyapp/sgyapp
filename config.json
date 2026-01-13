@@ -1,34 +1,24 @@
 {
-  "version": 1,
-  "updated_at": "2026-01-14T00:00:00Z",
-  
   "api": {
-    "domains": [
-      "https://api-main.shiguangyun.pro",
-      "https://api-backup1.shiguangyun.pro", 
-      "https://api-hk.shiguangyun.pro"
-    ],
-    "timeout": 10000,
-    "retry_count": 3
+    "domains": ["https://shiguangyun.pro"]
   },
-  
-  "announcement": {
-    "enabled": true,
-    "title": "系统公告",
-    "content": "新版本已发布，请更新体验！",
-    "type": "info",
-    "url": ""
-  },
-  
+
   "app": {
+    "latest_version": "1.0.1",
     "min_version": "1.0.0",
-    "latest_version": "1.2.0",
-    "update_url": "https://...",
-    "force_update": false
+    "update_log": "1. 修复已知问题\n2. 优化体验",
+    "download_url": "https://shiguangyun.pro/app.apk"
   },
-  
-  "maintenance": {
+
+  "announcement": {
     "enabled": false,
-    "message": "系统维护中，预计30分钟后恢复"
+    "id": "20260114",
+    "title": "系统公告",
+    "content": ""
+  },
+
+  "invite": {
+    "download_url": "https://shiguangyun.pro/app.apk",
+    "share_text": "我在用拾光云，邀请码：{code}，下载：{url}"
   }
 }
