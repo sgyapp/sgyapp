@@ -2,21 +2,21 @@
   "api": {
     "domains": ["https://shiguangyun.pro"]
   },
-
+  "device": {
+    "verify_url": "https://api.shiguangyun.pro/api/device"
+  },
   "app": {
     "latest_version": "1.0.1",
     "min_version": "1.0.0",
     "update_log": "1. 修复已知问题\n2. 优化体验",
     "download_url": "https://shiguangyun.pro/app.apk"
   },
-
   "announcement": {
     "enabled": false,
     "id": "20260114",
     "title": "系统公告",
     "content": ""
   },
-
   "invite": {
     "download_url": "https://shiguangyun.pro/app.apk",
     "share_text": "我在用拾光云，邀请码：{code}，下载：{url}"
