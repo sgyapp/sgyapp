@@ -6,7 +6,7 @@
     "verify_url": "https://api.shiguangyun.pro/api/device"
   },
   "app": {
-    "latest_version": "1.0.1",
+    "latest_version": "1.0.3",
     "min_version": "1.0.0",
     "update_log": "1. 修复已知问题\n2. 优化体验",
     "download_url": "https://shiguangyun.pro/app.apk"
