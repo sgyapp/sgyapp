@@ -9,7 +9,7 @@
     "latest_version": "1.0.1",
     "min_version": "1.0.1",
     "update_log": "1. 修复已知问题\n2. 优化体验",
-    "download_url": "https://shiguangyun.pro/app.apk"
+    "download_url": "https://shiguangyun.xyz"
   },
   "announcement": {
     "enabled": false,
@@ -18,7 +18,7 @@
     "content": ""
   },
   "invite": {
-    "download_url": "https://shiguangyun.pro/app.apk",
+    "download_url": "https://shiguangyun.xyz",
     "share_text": "我在用拾光云，邀请码：{code}，下载：{url}"
   }
 }
