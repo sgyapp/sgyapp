@@ -1,9 +1,9 @@
 {
   "api": {
-    "domains": ["https://shiguangyun.pro"]
+    "domains": ["https://shiguangyun.diy"]
   },
   "device": {
-    "verify_url": "https://api.shiguangyun.pro/api/device"
+    "verify_url": "https://api.shiguangyun.diy/api/device"
   },
   "app": {
     "latest_version": "1.0.1",
